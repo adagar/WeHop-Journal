@@ -12,3 +12,6 @@
 
 ## 3/12/2019: 1.25 hour
 5:45 - 7:00: Stretchy stem
+
+## 3/12/2019: 2 hour
+6:00 - 8:00: Cloned version working, new grapefruit art created/imported
