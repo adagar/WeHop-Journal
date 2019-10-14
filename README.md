@@ -18,3 +18,7 @@
 
 ## 3/31/2019: 2 hour
 2:45 - 4:45: Starting teleporter. New (shit) art, transforming position, fixed some bugs
+
+## 10/13/2019: 3 hours
+
+## 10/14/2019: 1.5 hours
